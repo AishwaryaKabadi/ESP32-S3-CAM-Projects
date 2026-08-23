@@ -1,69 +1,58 @@
-# ESP32-S3 CAM – Setup & Blink
+# ESP32-S3 CAM Projects 🚀
 
-A beginner-friendly ESP32-S3 CAM project covering Arduino IDE setup, board configuration, and the first Blink test.
+A collection of beginner-friendly projects and tutorials using the **ESP32-S3 CAM**.
 
-## 📌 What You'll Learn
+This repository contains the source code for my ESP32-S3 CAM YouTube series, starting from basic setup and Blink to camera, Wi-Fi, and IoT projects.
 
-- Install ESP32 board support in Arduino IDE
-- Configure ESP32-S3 CAM
-- Upload your first program
-- Test the onboard LED
+## 📂 Projects
 
-## 🛠️ Requirements
+| # | Project | Description |
+|---|---|---|
+| 01 | [ESP32-S3 CAM Blink](./01-Blink) | Basic setup and LED Blink test |
+| 02 | Coming Soon | Camera test |
+| 03 | Coming Soon | Wi-Fi connection |
+| 04 | Coming Soon | ESP32-S3 CAM projects |
+
+More projects will be added as the YouTube series grows.
+
+## 📺 YouTube Playlist
+
+Watch the complete ESP32-S3 CAM series:
+
+**PASTE YOUR PLAYLIST LINK HERE**
+
+## 📖 Tutorials & Guides
+
+Detailed tutorials and setup guides are available on my blog:
+
+https://pigirl2020.blogspot.com/
+
+## 🛒 ESP32-S3 CAM
+
+Product used in these projects:
+
+https://link.amazon/B0fdjOIzg
+
+**Amazon Affiliate Disclosure:** As an Amazon Associate, I earn from qualifying purchases.
+
+## 🔧 Requirements
 
 - ESP32-S3 CAM
 - USB cable
 - Arduino IDE
 - Computer
 
-## 🚀 Getting Started
+## 👩‍💻 About
 
-### 1. Install Arduino IDE
+I create beginner-friendly tutorials on **ESP32, ESP32-S3 CAM, Arduino, IoT, and electronics projects**.
 
-Download Arduino IDE:
-https://www.arduino.cc/en/software
+## 🔗 Connect With Me
 
-### 2. Install ESP32 Board Support
+- Instagram: [@pigirl.tech](https://www.instagram.com/pigirl.tech/)
+- Facebook: https://www.facebook.com/577814172886279
+- Website: https://pigirl2020.blogspot.com/
+- PayPal: https://www.paypal.me/pigirltech
 
-In Arduino IDE, add the ESP32 board package and select the appropriate ESP32-S3 board.
+---
 
-### 3. Open the Code
-
-Open:
-
-`ESP32-S3-CAM-Blink.ino`
-
-### 4. Upload
-
-Connect your ESP32-S3 CAM to your computer, select the correct board and COM/USB port, then upload the code.
-
-## 💡 Blink Test
-
-The Blink example verifies that your ESP32-S3 CAM is correctly connected and programmed.
-
-## 📺 YouTube Tutorial
-
-Watch the complete setup and Blink tutorial:
-
-[YouTube Video](PASTE_YOUR_VIDEO_LINK_HERE)
-
-## 📖 Full Tutorial
-
-https://pigirl2020.blogspot.com/2026/08/esp32-s3-cam-getting-started-setup.html
-
-## 📂 Project Structure
-
-ESP32-S3-CAM-Blink/
-│
-├── ESP32-S3-CAM-Blink.ino
-└── README.md
-
-## 🛒 ESP32-S3 CAM
-
-Amazon: https://link.amazon/B0fdjOIzg
-
-**Amazon Affiliate Disclosure:** As an Amazon Associate, I earn from qualifying purchases.
-
-## 📜 License
-
-This project is open source and available for learning and personal projects.
+⭐ If you find these projects useful, consider **starring this repository** and subscribing to the YouTube channel.
